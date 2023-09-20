@@ -22,11 +22,12 @@ p {
   background-color: white;
   border-radius: 25px;
   text-align: center;
-  width: 300px;
+  width: 250px;
+  max-width: 90%;
   padding: 25px;
 }
 div > img {
-  width: 300px;
+  width: 250px;
   border-radius: 12px;
 }
 
