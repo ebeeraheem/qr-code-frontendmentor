@@ -24,8 +24,8 @@ Above is a screnshot of my solution for easier access.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ebeeraheem/qr-code-frontendmentor.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Checkout the solution to my qr code challenge here](https://github.com/ebeeraheem/qr-code-frontendmentor.git)
+- Live Site URL: [Visit the site by clicking here](https://ebeeraheem.github.io/qr-code-frontendmentor/)
 
 ## My process
 
