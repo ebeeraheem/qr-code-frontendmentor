@@ -1,3 +1,5 @@
+# PRACTICE PROJECT
+
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -37,7 +39,7 @@ Above is a screnshot of my solution for easier access.
 
 ### What I learned
 
-I have already learned HTML and CSS previously so I used this project to learn about the git and GitHub ecosystem effectively. I learned a lot by actually doing things to gain handson experience on programming and not just watch others do them in tutorials.
+I have already learned HTML and CSS previously so I used this project to learn about the git and GitHub ecosystem effectively. I learned a lot by actually doing things to gain hands-on experience on programming and not just watch others do them in tutorials.
 
 ### Continued development
 
@@ -50,6 +52,6 @@ In the future, I would love to try out new challenges offered by Frontend Mentor
 
 ## Author
 
-- Website - [Ibrahim Suleiman](http://ebeesule.carrd.co/)
+- Website - [Ibrahim Suleiman](http://ebeesule.netlify.app/)
 - Frontend Mentor - [@ebeeraheem](https://www.frontendmentor.io/profile/ebeeraheem)
 - GitHub - [@ebeeraheem](https://github.com/ebeeraheem)
